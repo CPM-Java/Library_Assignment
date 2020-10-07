@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=title\ author
+comment0.target=Book(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Book\n
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment3.params=
+comment3.target=boolean\ onShelf()
+comment4.params=
+comment4.target=void\ checkOut()
+comment5.params=
+comment5.target=void\ checkIn()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ runConsole()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ SeatingChart\n
+comment1.params=
+comment1.target=void\ addBook()
+comment1.text=\n\ Adds\ a\ book\ to\ the\ library\n
+comment2.params=
+comment2.target=void\ bookCheckout()
+comment2.text=\n\ Changes\ the\ status\ of\ a\ book\ to\ "not\ available"\ \n
+comment3.params=
+comment3.target=void\ bookReturn()
+comment3.text=\n\ Changes\ the\ status\ of\ a\ book\ to\ "available"\ \n
+numComments=4

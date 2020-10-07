@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Library()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Library\n
+comment1.params=
+comment1.target=java.lang.String\ inventory()
+comment1.text=\n\ Return\ a\ String\ representing\ the\ libraries\ inventory\ of\ book\ objects\n\ \n\ @return\ \ \ \ \ a\ String\ representing\ the\ libraries\ inventory\ \n
+comment2.params=title\ author
+comment2.target=void\ newBook(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Instantiates\ a\ new\ book\ object\ and\ places\ it\ in\ the\ first\ null\ position\ in\ the\ array\n\ \n\ @param\ \ title\ \ \ book\ title\ as\ a\ String\n\ @param\ \ author\ \ \ book\ author\ as\ a\ String\n
+comment3.params=indexNum
+comment3.target=void\ checkBookIn(int)
+comment3.text=\n\ Changes\ the\ status\ of\ a\ book\ to\ 'checked\ in'\n\ \n\ @param\ \ indexNum\ \ \ index\ number\ of\ the\ book\n
+comment4.params=indexNum
+comment4.target=void\ checkBookOut(int)
+comment4.text=\n\ Changes\ the\ status\ of\ a\ book\ to\ 'checked\ out'\n\ \n\ @param\ \ indexNum\ \ \ index\ number\ of\ the\ book\n
+comment5.params=
+comment5.target=void\ titleSort()
+comment5.text=\n\ Sort\ the\ book\ objects\ alphabetically\ by\ title\n
+comment6.params=
+comment6.target=void\ authorSort()
+comment6.text=\n\ Sort\ the\ book\ objects\ alphabetically\ by\ author\n
+numComments=7
